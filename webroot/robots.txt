@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /app/
+Disallow: /webroot/
+
+Sitemap: https://beta.news24bd.net/sitemap.xml

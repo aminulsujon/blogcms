@@ -1,0 +1,1 @@
+<a class="d-block mt-4" href="<?= $head_url ?>pages/view/<?= $product['id'] ?>/<?= $product['slug'] ?>" class="color-theme2"><?= $product['title'] ?></a>
